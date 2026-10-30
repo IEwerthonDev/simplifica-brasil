@@ -1,0 +1,587 @@
+Simplifica Brasil · identidade
+Mesma paleta, fonte e balão de conversa do Mãozinha. A mão deu lugar a um caminho em forma de S: ele sai do alto do
+balão, faz as curvas e termina no ponto caju, que é a chegada. É a ideia do produto: um caminho complicado que vira um
+trajeto só, até o lugar certo.
+
+Telas da Onda 1, alinhadas ao PRD v4 e ao pacote SDD. Textos entre colchetes, nomes de botões das telas oficiais e
+o nível de conta são ilustrativos e precisam ser conferidos na fonte oficial antes de publicar.
+
+
+
+
+                       simplifica                                                       simplifica
+                       brasil                                                           brasil
+    O governo explicado sem                                           O governo explicado sem
+    complicação.                                                      complicação.
+
+
+
+
+     Ícone do app      32 px   16 px                                   Ícone do app     32 px   16 px
+
+
+
+
+    Jabuticaba          Caju               Tinta                      Lilás              Caju               Névoa
+    #4A1D5C · botões    #F2A33A ·          #1F1D24 · texto            #C9A3DB ·          #F2A33A ·          #F4F0F7 · texto
+                        destaques                                     botões             destaques
+
+
+
+
+    Areia               Lilás claro        Vinho                      Noite              Ameixa             Rosa alerta
+    #F2EFE9 · caixas    #F3ECF6 · ícones   #8B1A1A · alerta           #18141C · fundo    #231D29 · caixas   #FFB4B4 · alerta
+
+
+
+
+    Atkinson                                  Il1 O0 rn m: letras que não se confundem, feitas para quem
+                                              enxerga pouco. Todo texto do modo escuro também passa de
+    Hyperlegible                              7:1 de contraste.
+1. Início
+Na Onda 1 só aparecem as situações com conteúdo pronto: conta gov.br e INSS. Nada de cartão “em breve”. O rodapé
+ganhou “Como saber que somos nós” e o link do código-fonte.
+
+                           Modo claro                                                Modo escuro
+
+
+
+
+               simplifica brasil                 Letra                   simplifica brasil                 Letra
+
+
+        Olá! O que você precisa                                    Olá! O que você precisa
+        resolver hoje?                                             resolver hoje?
+        Escreva com suas palavras                                  Escreva com suas palavras
+
+
+           Ex.: ver minhas contribuições                             Ex.: ver minhas contribuições
+
+
+                            Buscar                                                    Buscar
+
+
+        Ou escolha um assunto                                      Ou escolha um assunto
+
+                   Minha conta gov.br                                        Minha conta gov.br
+                   Entrar e recuperar o acesso                               Entrar e recuperar o acesso
+
+
+
+                   Aposentadoria e INSS                                      Aposentadoria e INSS
+                   Ver minhas contribuições                                  Ver minhas contribuições
+
+
+        Precisa de ajuda rápida?                                   Precisa de ajuda rápida?
+
+                Esqueci minha senha                                       Esqueci minha senha
+
+
+                Isso é golpe?                                             Isso é golpe?
+
+
+                   Avisos no WhatsApp                                        Avisos no WhatsApp
+                   Golpes novos e prazos                                     Golpes novos e prazos
+                   importantes                                               importantes
+
+
+
+          O Simplifica Brasil não é do governo e nunca               O Simplifica Brasil não é do governo e nunca
+          pede seus dados.                                           pede seus dados.
+
+
+           Como saber que somos nós · Código-fonte                   Como saber que somos nós · Código-fonte
+                           (AGPL-3.0)                                                (AGPL-3.0)
+2. Situação
+Aposentadoria e INSS com o único serviço da Onda 1. Como ele exige login, a tela lembra antes de tudo como entrar na
+conta gov.br.
+
+                           Modo claro                                                 Modo escuro
+
+
+
+                Voltar                         Ouvir                       Voltar                          Ouvir
+
+
+
+
+        Aposentadoria e INSS                                        Aposentadoria e INSS
+        Escolha o que você quer fazer:                              Escolha o que você quer fazer:
+
+
+           Ver minhas contribuições                                   Ver minhas contribuições
+           Confira o tempo que você já pagou                          Confira o tempo que você já pagou
+           ao INSS.                                                   ao INSS.
+
+
+
+                Antes, você precisa entrar na                              Antes, você precisa entrar na
+                conta gov.br.                                              conta gov.br.
+                Veja como entrar ou recuperar o                            Veja como entrar ou recuperar o
+                acesso                                                     acesso
+
+
+
+
+                Prefere falar com alguém? Ligue                            Prefere falar com alguém? Ligue
+                135, a central do INSS.                                    135, a central do INSS.
+3. Serviço
+Mostra custo, canal, tempo, o que separar e o nível de conta exigido (a confirmar na fonte oficial). Os três caminhos: fazer
+junto, treinar ou resolver um erro. Dá para mandar a página para alguém.
+
+                             Modo claro                                                    Modo escuro
+
+
+
+                 Voltar                           Ouvir                         Voltar                           Ouvir
+
+
+         Aposentadoria e INSS                                           Aposentadoria e INSS
+
+         Ver minhas                                                     Ver minhas
+         contribuições                                                  contribuições
+         É a lista de todos os trabalhos e                              É a lista de todos os trabalhos e
+         pagamentos que o INSS tem no seu nome.                         pagamentos que o INSS tem no seu nome.
+         O nome oficial é extrato do CNIS.                              O nome oficial é extrato do CNIS.
+
+           Grátis      Pelo celular                                       Grátis      Pelo celular
+
+           Cerca de 10 minutos                                            Cerca de 10 minutos
+
+
+            Antes de começar, tenha em                                     Antes de começar, tenha em
+            mãos:                                                          mãos:
+                 Celular com internet                                           Celular com internet
+                 Seu CPF e a senha da conta gov.br                              Seu CPF e a senha da conta gov.br
+                 Conta gov.br nível [NÍVEL] ou                                  Conta gov.br nível [NÍVEL] ou
+                 mais Como ver meu nível                                        mais Como ver meu nível
+            Esqueceu a senha? Veja como recuperar                          Esqueceu a senha? Veja como recuperar
+
+
+
+                  Fazer comigo, passo a passo                                    Fazer comigo, passo a passo
+
+               Mostramos a tela oficial e onde tocar.                         Mostramos a tela oficial e onde tocar.
+
+
+                     Treinar antes, sem risco                                       Treinar antes, sem risco
+
+
+               Deu errado? Veja o que fazer                                   Deu errado? Veja o que fazer
+
+                Mandar esta página para alguém                                 Mandar esta página para alguém
+
+          Conferido em [DATA] · tela do Meu INSS versão [X]              Conferido em [DATA] · tela do Meu INSS versão [X]
+4. Faça Conosco
+Captura real com o toque marcado, instrução que cita o nome exato do botão, “Pare e confira” e “Fiz isso”. O ícone de
+compartilhar manda o link deste passo.
+
+                            Modo claro                                                   Modo escuro
+
+
+
+                Sair                             Ouvir                       Sair                             Ouvir
+
+
+         Fazendo com você · Passo 2 de 5                              Fazendo com você · Passo 2 de 5
+
+
+         Entre com sua conta gov.br                                   Entre com sua conta gov.br
+
+
+
+
+                   1                                                             1
+
+                                 ↑ Toque aqui                                                 ↑ Toque aqui
+
+
+
+
+              [Imagem real da tela do Meu INSS, com o                      [Imagem real da tela do Meu INSS, com o
+                        botão destacado]                                             botão destacado]
+                       Conferida em [DATA]                                          Conferida em [DATA]
+
+
+         Toque no botão Entrar com gov.br. Depois,                    Toque no botão Entrar com gov.br. Depois,
+         digite o seu CPF e toque em Continuar.                       digite o seu CPF e toque em Continuar.
+
+                Pare e confira: o endereço no alto                           Pare e confira: o endereço no alto
+                da tela deve ser meu.inss.gov.br                             da tela deve ser meu.inss.gov.br
+
+
+                 Voltar                  Fiz isso                             Voltar                   Fiz isso
+
+              A tela está diferente? Avise a gente                         A tela está diferente? Avise a gente
+5. Faça Conosco com imagem antiga
+Quando a captura passa de 90 dias, o passo avisa e repete o nome do botão. A instrução em texto continua suficiente para
+seguir.
+
+                            Modo claro                                                 Modo escuro
+
+
+
+                Sair                            Ouvir                       Sair                            Ouvir
+
+
+        Fazendo com você · Passo 4 de 5                             Fazendo com você · Passo 4 de 5
+
+
+        Abra o seu extrato                                          Abra o seu extrato
+               Esta imagem pode estar diferente.                           Esta imagem pode estar diferente.
+               Procure o botão escrito [RÓTULO                             Procure o botão escrito [RÓTULO
+               DO BOTÃO].                                                  DO BOTÃO].
+
+
+
+
+                   1                                                           1
+
+
+
+
+                [Imagem real da tela do Meu INSS]                           [Imagem real da tela do Meu INSS]
+            Conferida em [DATA ANTIGA], há mais de 90                   Conferida em [DATA ANTIGA], há mais de 90
+                               dias                                                        dias
+
+
+        Toque no botão [RÓTULO DO BOTÃO]. O                         Toque no botão [RÓTULO DO BOTÃO]. O
+        extrato abre na mesma tela.                                 extrato abre na mesma tela.
+
+                 Voltar                  Fiz isso                            Voltar                  Fiz isso
+
+             A tela está diferente? Avise a gente                        A tela está diferente? Avise a gente
+6. Treinar antes
+Tela de mentira, desenhada por nós e listrada. Errar não tem consequência e nada sai do celular.
+
+                             Modo claro                                                   Modo escuro
+
+
+
+
+                Sair do treino                     Ouvir                      Sair do treino                     Ouvir
+
+
+         Treino · nada aqui é de verdade                              Treino · nada aqui é de verdade
+
+         Onde você tocaria para                                       Onde você tocaria para
+         entrar?                                                      entrar?
+         Pode errar à vontade. Nenhum dado é                          Pode errar à vontade. Nenhum dado é
+         enviado.                                                     enviado.
+
+
+
+
+           Tela de treino, desenhada pelo Simplifica Brasil              Tela de treino, desenhada pelo Simplifica Brasil
+
+
+
+               Isso! É esse botão: “Entrar com                               Isso! É esse botão: “Entrar com
+               gov.br”. No site de verdade ele fica                          gov.br”. No site de verdade ele fica
+               no mesmo lugar.                                               no mesmo lugar.
+
+
+                        Próximo treino                                                Próximo treino
+
+
+               Já entendi, fazer de verdade                                  Já entendi, fazer de verdade
+7. Saída para o site oficial
+Toda vez, ensina a conferir o endereço letra por letra antes de digitar a senha.
+
+                             Modo claro                                                     Modo escuro
+
+
+
+
+                 Voltar                                                            Voltar
+
+
+
+
+         Você vai sair do                                                Você vai sair do
+         Simplifica Brasil                                               Simplifica Brasil
+         Agora você vai para o site oficial do INSS.                     Agora você vai para o site oficial do INSS.
+         Lá, sim, você pode digitar o seu CPF e a                        Lá, sim, você pode digitar o seu CPF e a
+         sua senha.                                                      sua senha.
+
+            O endereço certo é:                                            O endereço certo é:
+
+            meu.inss.gov.br                                                meu.inss.gov.br
+
+         Antes de digitar a senha, confira:                              Antes de digitar a senha, confira:
+              O endereço no alto da tela é igual ao                           O endereço no alto da tela é igual ao
+              de cima, letra por letra.                                       de cima, letra por letra.
+              Você chegou lá por este botão, e não                            Você chegou lá por este botão, e não
+              por um link de mensagem.                                        por um link de mensagem.
+
+
+                    Abrir o site oficial                                             Abrir o site oficial
+
+
+                   Voltar ao passo a passo                                          Voltar ao passo a passo
+8. Deu errado?
+Erros comuns do serviço, “A tela está diferente da imagem”, telefone oficial e “Esta página ajudou?”.
+
+                             Modo claro                                                   Modo escuro
+
+
+
+
+                Voltar                            Ouvir                       Voltar                          Ouvir
+
+
+         Deu errado? Vamos                                             Deu errado? Vamos
+         resolver juntos                                               resolver juntos
+         Toque no problema que mais parece com o                       Toque no problema que mais parece com o
+         seu:                                                          seu:
+
+
+           Esqueci a senha do gov.br                                     Esqueci a senha do gov.br
+           Dá para recuperar pelo app do seu                             Dá para recuperar pelo app do seu
+           banco, pelo rosto no app gov.br ou num                        banco, pelo rosto no app gov.br ou num
+           posto de atendimento.                                         posto de atendimento.
+
+
+                  Recuperar minha senha                                         Recuperar minha senha
+
+
+
+           O site diz que meu nível de                                   O site diz que meu nível de
+           conta é baixo                                                 conta é baixo
+
+
+           A foto do rosto não é aceita                                  A foto do rosto não é aceita
+
+
+           Falta um trabalho no meu                                      Falta um trabalho no meu
+           extrato                                                       extrato
+
+
+           A tela está diferente da                                      A tela está diferente da
+           imagem                                                        imagem
+
+
+                Ainda com dúvida? Ligue 135, a                                Ainda com dúvida? Ligue 135, a
+                central do INSS.                                              central do INSS.
+
+
+                     Esta página ajudou?                                           Esta página ajudou?
+
+                  Sim                       Não                                 Sim                     Não
+9. Esqueci minha senha
+Até três perguntas levam a um único caminho de recuperação. As perguntas e caminhos finais dependem da conferência
+no gov.br.
+
+                           Modo claro                                               Modo escuro
+
+
+
+               Voltar                         Ouvir                      Voltar                         Ouvir
+
+
+
+
+        Vamos recuperar seu                                       Vamos recuperar seu
+        acesso                                                    acesso
+        Responda três perguntas rápidas e                         Responda três perguntas rápidas e
+        mostramos o caminho mais fácil para você.                 mostramos o caminho mais fácil para você.
+
+          Pergunta 1 de 3                                           Pergunta 1 de 3
+
+          Você usa o aplicativo do seu                              Você usa o aplicativo do seu
+          banco no celular?                                         banco no celular?
+
+                          Sim, uso                                                  Sim, uso
+
+
+                           Não uso                                                   Não uso
+
+
+                           Não sei                                                   Não sei
+
+
+
+               O Simplifica Brasil nunca pede sua                        O Simplifica Brasil nunca pede sua
+               senha, seu CPF ou códigos. Suas                           senha, seu CPF ou códigos. Suas
+               respostas ficam só no seu celular.                        respostas ficam só no seu celular.
+10. Isso é golpe?
+O que o governo nunca faz, o que fazer, mandar o aviso para a família e o que fazer se já caiu.
+
+                             Modo claro                                                    Modo escuro
+
+
+
+
+                Voltar                            Ouvir                        Voltar                       Ouvir
+
+
+
+
+         Isso é golpe?                                                  Isso é golpe?
+         Recebeu uma mensagem dizendo ser do                            Recebeu uma mensagem dizendo ser do
+         governo? Compare com a lista abaixo.                           governo? Compare com a lista abaixo.
+
+
+           O governo nunca:                                               O governo nunca:
+                Manda link por WhatsApp ou SMS                                 Manda link por WhatsApp ou SMS
+                pedindo seus dados                                             pedindo seus dados
+                Pede senha, código ou foto de                                  Pede senha, código ou foto de
+                documento por mensagem                                         documento por mensagem
+                Cobra taxa para liberar dinheiro                               Cobra taxa para liberar dinheiro
+                que você tem a receber                                         que você tem a receber
+                Ameaça bloquear seu CPF se você                                Ameaça bloquear seu CPF se você
+                não pagar na hora                                              não pagar na hora
+
+
+         Recebeu algo assim? Faça isto:                                 Recebeu algo assim? Faça isto:
+         1. Não toque no link.                                          1. Não toque no link.
+         2. Não responda e não mande nenhum                             2. Não responda e não mande nenhum
+            dado.                                                          dado.
+         3. Apague a mensagem.                                          3. Apague a mensagem.
+         4. Avise a sua família.                                        4. Avise a sua família.
+
+                    Mandar este aviso para a                                       Mandar este aviso para a
+                                família                                                           família
+
+
+                Já caí num golpe. E agora?                                     Já caí num golpe. E agora?
+11. Kit de acesso
+Nova nesta versão. As quatro etapas para entrar sem depender da memória e o roteiro “Vou ajudar alguém”.
+
+                              Modo claro                                                Modo escuro
+
+
+
+
+                 Voltar                         Ouvir                        Voltar                         Ouvir
+
+
+
+
+        Kit de acesso                                               Kit de acesso
+        Em cerca de 10 minutos, com alguém da                       Em cerca de 10 minutos, com alguém da
+        família, você deixa pronto um jeito de                      família, você deixa pronto um jeito de
+        entrar sem precisar decorar senha.                          entrar sem precisar decorar senha.
+
+
+                    Entrar pelo banco                                           Entrar pelo banco
+             1                                                           1
+                    Use o app do seu banco para entrar                          Use o app do seu banco para entrar
+                    no gov.br.                                                  no gov.br.
+
+
+
+                    Salvar no celular                                           Salvar no celular
+             2                                                           2
+                    Guarde a senha no gerenciador de                            Guarde a senha no gerenciador de
+                    senhas do celular.                                          senhas do celular.
+
+
+
+                    Testar a recuperação pelo                                   Testar a recuperação pelo
+             3                                                           3
+                    rosto                                                       rosto
+                    Faça um teste com boa luz, junto de                         Faça um teste com boa luz, junto de
+                    alguém.                                                     alguém.
+
+
+
+                    Ficha de acesso                                             Ficha de acesso
+             4                                                           4
+                    Imprima e guarde em casa. Ela diz                           Imprima e guarde em casa. Ela diz
+                    como você entra, não a senha.                               como você entra, não a senha.
+
+
+
+                          Começar o kit                                               Começar o kit
+
+
+                          Vou ajudar alguém                                           Vou ajudar alguém
+
+
+                 Nada do que você faz aqui passa pelo                        Nada do que você faz aqui passa pelo
+                 Simplifica Brasil. Quem guarda a senha                      Simplifica Brasil. Quem guarda a senha
+                 é o seu celular.                                            é o seu celular.
+12. Simplifica no WhatsApp
+Só o canal de avisos e o compartilhamento. O “fazer comigo pelo WhatsApp” saiu da tela, porque ainda não existe.
+
+                            Modo claro                                                 Modo escuro
+
+
+
+
+                Voltar                          Ouvir                       Voltar                          Ouvir
+
+
+
+
+        Simplifica Brasil no                                         Simplifica Brasil no
+        WhatsApp                                                     WhatsApp
+        Receba no WhatsApp os avisos de golpes                       Receba no WhatsApp os avisos de golpes
+        novos e os prazos que importam. É só                         novos e os prazos que importam. É só
+        seguir o canal.                                              seguir o canal.
+
+
+                   Seguir o canal de avisos                                     Seguir o canal de avisos
+                   Uma ou duas mensagens por                                    Uma ou duas mensagens por
+                   semana. Link: [LINK DO                                       semana. Link: [LINK DO
+                   CANAL]                                                       CANAL]
+
+
+
+                   Mandar uma página para                                       Mandar uma página para
+                   alguém                                                       alguém
+                   Em qualquer página, toque em                                 Em qualquer página, toque em
+                   “Mandar”                                                     “Mandar”
+
+
+
+           Como saber que somos nós                                    Como saber que somos nós
+                No WhatsApp, só existe um canal                             No WhatsApp, só existe um canal
+                oficial, com o link que está nesta                          oficial, com o link que está nesta
+                página.                                                     página.
+                Nós nunca pedimos CPF, senha,                               Nós nunca pedimos CPF, senha,
+                código ou foto de documento.                                código ou foto de documento.
+                Nós nunca mandamos mensagem                                 Nós nunca mandamos mensagem
+                primeiro para pedir alguma coisa.                           primeiro para pedir alguma coisa.
+13. Ajustes de leitura
+Tamanho da letra, tema claro, escuro ou igual ao celular, velocidade da voz e menos movimento. Tudo salvo só no aparelho.
+
+                            Modo claro                                                   Modo escuro
+
+
+
+
+                Voltar                                                      Voltar
+
+
+         Como prefere ler?                                           Como prefere ler?
+         Fica salvo só neste celular.                                Fica salvo só neste celular.
+
+         Tamanho da letra                                            Tamanho da letra
+
+               Aa              Aa               Aa                          Aa              Aa              Aa
+         Exemplo: Toque no botão Entrar com gov.br.                  Exemplo: Toque no botão Entrar com gov.br.
+
+         Cores da tela                                               Cores da tela
+
+                    Claro                  Escuro                                Claro                  Escuro
+
+
+                         Igual ao meu celular                                        Igual ao meu celular
+
+
+         Ouvir as páginas                                            Ouvir as páginas
+
+             Mais devagar                Normal                           Mais devagar                 Normal
+
+
+
+           Menos movimento na                                          Menos movimento na
+           tela                              Ligado                    tela                              Ligado
+           Tira animações e efeitos                                    Tira animações e efeitos
+
+
+
+                             Pronto                                                       Pronto
+
